@@ -1,6 +1,6 @@
 #!perl
 use strict; use warnings;
-use Test::Most tests => 169;
+use Test::Most tests => 23;
 use ok 'Device::MAC';
 
 my @values = (
