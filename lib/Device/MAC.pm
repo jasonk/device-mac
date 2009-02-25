@@ -1,6 +1,6 @@
 package Device::MAC;
 use strict; use warnings;
-our $VERSION = '0.01';
+our $VERSION = '1.00';
 use Moose;
 use Device::OUI;
 use Carp qw( croak );
